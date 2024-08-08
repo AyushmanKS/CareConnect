@@ -1,16 +1,4 @@
-# careconnect
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![emergency cervices](https://github.com/user-attachments/assets/782cac90-70ed-4682-8842-7d5116402c3f)
+![medicine sales](https://github.com/user-attachments/assets/4af59176-e95c-4e1d-a592-b86a4363aa1f)
+![online appointment booking](https://github.com/user-attachments/assets/e8f07900-7c47-403c-863f-3c2b7ac9b862)
+![profile](https://github.com/user-attachments/assets/bb870a02-7f8a-4982-b536-e449c284c8cc)
